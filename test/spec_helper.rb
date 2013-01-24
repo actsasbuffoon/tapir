@@ -1,1 +1,1 @@
-require_relative '../lib/apiary.rb'
+require_relative '../lib/tapir.rb'

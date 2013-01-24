@@ -1,6 +1,6 @@
-# Apiary
+# Tapir
 
-Apiary works with ActiveRecord to create extremely flexible APIs. It has a secure query language that lets users filter, sort, and join data while preventing them from accessing anything they shouldn't be allowed to.
+Tapir works with ActiveRecord to create extremely flexible APIs. It has a secure query language that lets users filter, sort, and join data while preventing them from accessing anything they shouldn't be allowed to.
 
 Special thanks to Koko Fitness who have generously permitted me to open source this code.
 
@@ -8,7 +8,7 @@ Special thanks to Koko Fitness who have generously permitted me to open source t
 
 Add this line to your application's Gemfile:
 
-    gem 'apiary'
+    gem 'tapir'
 
 And then execute:
 
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install apiary
+    $ gem install tapir
 
 ## Usage
 

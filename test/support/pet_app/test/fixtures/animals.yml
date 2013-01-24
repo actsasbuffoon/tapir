@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  species: 
+  name: MyString
+  owner: 
+  gender: MyString
+
+two:
+  species: 
+  name: MyString
+  owner: 
+  gender: MyString
